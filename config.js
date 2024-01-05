@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: 'de67ef3bdb5c88771edba8ea2bb38649', // Write here your API Key
-	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Onedark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://youtube.com/subscriptions/',
+			link: 'https://youtube.com/feed/subscriptions/',
 		},
 	],
 
